@@ -1,1 +1,18 @@
+h1{
+    color: rgb(92, 54, 54); font-size: 500%; text-align: center;
+}
+h2{
+    color: rgb(216, 150, 63); font-style: italic; font-size: 200%;
+}
+h3{
+    color: rgb(65, 63, 63); font-size: 200%;
+}
+h4{
+    color: rgb(197, 97, 117); font-size: 150%; font-style: italic;
+}
+body{
+    background-color: rgb(243, 235, 225);
+}
+
+    
 
